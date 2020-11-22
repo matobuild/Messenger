@@ -13,6 +13,7 @@
 		4886AC14256801C9004F6535 /* VideoPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4886AC13256801C9004F6535 /* VideoPlayerViewController.swift */; };
 		4886AC17256801F8004F6535 /* NewConversationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4886AC16256801F8004F6535 /* NewConversationViewController.swift */; };
 		4886AC1A2568020F004F6535 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4886AC192568020F004F6535 /* ProfileViewController.swift */; };
+		4886AC1F256A1D90004F6535 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4886AC1E256A1D90004F6535 /* Extensions.swift */; };
 		48EFD1972567F99800D2B9B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48EFD1962567F99800D2B9B5 /* AppDelegate.swift */; };
 		48EFD1992567F99800D2B9B5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48EFD1982567F99800D2B9B5 /* SceneDelegate.swift */; };
 		48EFD19B2567F99800D2B9B5 /* ConversationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48EFD19A2567F99800D2B9B5 /* ConversationsViewController.swift */; };
@@ -28,6 +29,7 @@
 		4886AC13256801C9004F6535 /* VideoPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerViewController.swift; sourceTree = "<group>"; };
 		4886AC16256801F8004F6535 /* NewConversationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewConversationViewController.swift; sourceTree = "<group>"; };
 		4886AC192568020F004F6535 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		4886AC1E256A1D90004F6535 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		48EFD1932567F99800D2B9B5 /* Messenger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Messenger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48EFD1962567F99800D2B9B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		48EFD1982567F99800D2B9B5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				48EFD1962567F99800D2B9B5 /* AppDelegate.swift */,
+				4886AC1E256A1D90004F6535 /* Extensions.swift */,
 				48EFD1982567F99800D2B9B5 /* SceneDelegate.swift */,
 			);
 			path = Resources;
@@ -216,6 +219,7 @@
 				4886AC17256801F8004F6535 /* NewConversationViewController.swift in Sources */,
 				48EFD19B2567F99800D2B9B5 /* ConversationsViewController.swift in Sources */,
 				4886AC14256801C9004F6535 /* VideoPlayerViewController.swift in Sources */,
+				4886AC1F256A1D90004F6535 /* Extensions.swift in Sources */,
 				48EFD1972567F99800D2B9B5 /* AppDelegate.swift in Sources */,
 				4886AC1A2568020F004F6535 /* ProfileViewController.swift in Sources */,
 				48EFD1992567F99800D2B9B5 /* SceneDelegate.swift in Sources */,
